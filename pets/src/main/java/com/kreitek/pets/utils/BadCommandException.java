@@ -1,4 +1,4 @@
-package com.kreitek.pets;
+package com.kreitek.pets.utils;
 
 public class BadCommandException extends Exception {
 }

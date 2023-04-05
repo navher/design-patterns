@@ -1,6 +1,6 @@
 package com.kreitek.pets.controllers;
 
-import com.kreitek.pets.Controller;
+import com.kreitek.pets.interfaces.Controller;
 import com.kreitek.pets.domain.Cat;
 import com.kreitek.pets.infraestructure.bd.DbService;
 

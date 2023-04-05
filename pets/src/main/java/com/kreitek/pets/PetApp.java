@@ -3,6 +3,9 @@ package com.kreitek.pets;
 import com.kreitek.pets.controllers.CatController;
 import com.kreitek.pets.controllers.ControllerFactory;
 import com.kreitek.pets.controllers.DogController;
+import com.kreitek.pets.interfaces.Controller;
+import com.kreitek.pets.utils.BadCommandException;
+
 import java.util.Scanner;
 
 public class PetApp {
